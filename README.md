@@ -489,7 +489,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * **Project Link** - https://github.com/Pantonym/DV200_Term4
 
 ## Deployment Link
-**Deployment Link** - https://open-dev-hosting-3b07672094d5.herokuapp.com/
+* **Deployment Link** - https://open-dev-hosting-3b07672094d5.herokuapp.com
 
 <!-- ACKNOWLEDGEMENTS -->
 <!-- all resources that you used and Acknowledgements here -->
