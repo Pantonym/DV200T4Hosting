@@ -37,7 +37,7 @@ function HomePage() {
     const [searchR, setSearchR] = useState();
 
     useEffect(() => {
-        if (axiosCall.startsWith('https://open-dev-hosting-3b07672094d5.herokuapp.com/api/question_get_all')) {
+        if (axiosCall.startsWith('https://open-dev-hosting-3b07672094d5.herokuapp.compi/question_get_all')) {
             Axios.get(axiosCall)
                 .then(res => {
                     const { entries, totalEntries } = res.data;

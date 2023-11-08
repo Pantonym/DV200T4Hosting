@@ -70,7 +70,7 @@ const SignIn = () => {
           placeholder="Enter your email"
           required
         />
-        {error && <p className='login-invalid-message-email'> { error } </p>}
+        {error && <p className='login-invalid-message-email'> {error} </p>}
 
         <label>Password:</label>
         <input
@@ -82,7 +82,7 @@ const SignIn = () => {
           placeholder="Enter your password"
           required
         />
-        {error && <p className='login-invalid-message-password'> { error } </p>}
+        {error && <p className='login-invalid-message-password'> {error} </p>}
 
         <br></br>
         <br></br>
