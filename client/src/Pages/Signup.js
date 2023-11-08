@@ -27,7 +27,7 @@ const SignUp = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = 'https://open-dev-hosting-3b07672094d5.herokuapp.com/api/createUser';
+      const url = 'https://opendevweb-51212536012a.herokuapp.com/api/createUser';
       const { data: res } = await Axios.post(url, data);
       console.log(res.message);
       window.location = '/SignIn';
