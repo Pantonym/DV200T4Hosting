@@ -489,6 +489,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * **Project Link** - https://github.com/Pantonym/DV200_Term4
 
 ## Deployment Link
+* Caution: as you can see in the Demonstration video, the application was working as deployed. Unfortunately, an API update was required and an unknown error is disallowing the website from communicating with the database.
 * **Deployment Link** - https://open-dev-hosting-3b07672094d5.herokuapp.com
 
 <!-- ACKNOWLEDGEMENTS -->
